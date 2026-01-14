@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "All the Same",
+  "base_artist": "Does It Offend You Yeah",
+  "createdAt": "2026-01-14T03:41:10.008852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's All the Same Price",
+      "artist": "YACHT & Eats Tapes",
+      "has_synced": false,
+      "path": "select/01_It's_All_the_Same_Price_YACHT_&_Eats_Tapes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's All The Same Price (Feat. Eats Tapes)",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/02_It's_All_The_Same_Price_(Feat._Eats_Tapes)_YACHT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All the Same",
+      "artist": "Wavves",
+      "has_synced": true,
+      "path": "select/03_All_the_Same_Wavves.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's All the Same Price",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/04_It's_All_the_Same_Price_YACHT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's All The Same Price (Featuring Eats Tapes)",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/05_It's_All_The_Same_Price_(Featuring_Eats_Tapes)_YACHT.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All the Same",
+      "artist": "Deerhunter",
+      "has_synced": true,
+      "path": "select/06_All_the_Same_Deerhunter.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All the Same",
+      "artist": "Queen of Jeans",
+      "has_synced": true,
+      "path": "select/07_All_the_Same_Queen_of_Jeans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All The Same",
+      "artist": "Orgy",
+      "has_synced": true,
+      "path": "select/08_All_The_Same_Orgy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All The Same",
+      "artist": "Real Estate",
+      "has_synced": true,
+      "path": "select/09_All_The_Same_Real_Estate.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All the Same Eyes",
+      "artist": "Rheostatics",
+      "has_synced": false,
+      "path": "select/10_All_the_Same_Eyes_Rheostatics.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are All The Same (Gli Altri Siamo Noi)",
+      "artist": "Umberto Tozzi",
+      "has_synced": false,
+      "path": "select/11_We_Are_All_The_Same_(Gli_Altri_Siamo_Noi)_Umberto_Tozzi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Guilty All the Same",
+      "artist": "LINKIN PARK feat. Rakim",
+      "has_synced": true,
+      "path": "select/12_Guilty_All_the_Same_LINKIN_PARK_feat._Rakim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Guilty All the Same (feat. Rakim)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/13_Guilty_All_the_Same_(feat._Rakim)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Guilty All the Same (feat. Rakim)",
+      "artist": "Linkin Park, Rakim",
+      "has_synced": true,
+      "path": "select/14_Guilty_All_the_Same_(feat._Rakim)_Linkin_Park,_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All the Same",
+      "artist": "JYOCHO",
+      "has_synced": true,
+      "path": "select/15_All_the_Same_JYOCHO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's All the Same",
+      "artist": "Spirit",
+      "has_synced": true,
+      "path": "select/16_It's_All_the_Same_Spirit.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All the Same",
+      "artist": "Does It Offend You, Yeah?",
+      "has_synced": false,
+      "path": "select/pl_01_All_the_Same_Does_It_Offend_You,_Yeah.txt"
+    }
+  ]
+}
